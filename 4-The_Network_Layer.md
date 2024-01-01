@@ -91,13 +91,13 @@
 - 2 types of Notations: Binary & Dotted-Decimal Notation.
 
 **1. Binary Notation:**
-	- the IPv4 address is displayed as 32 bits.
-	- Each octet is often referred to as a byte
-	- Eg: `01110101 10010101 00011101 00000010`
+  - the IPv4 address is displayed as 32 bits.
+  - Each octet is often referred to as a byte
+  - Eg: `01110101 10010101 00011101 00000010`
 
 **2. Dotted-Decimal Notation:**
-	- Makes IPv4 addressing more compact and easier to read.
-	- Usually written in decimal form with a decimal point (dot) separating the bytes
-	- Each decimel number in an octect of dotted-decimal notation is a value ranging from 0 to 255.
-	- Eg: `10.20.29.2`
+  - Makes IPv4 addressing more compact and easier to read.
+  - Usually written in decimal form with a decimal point (dot) separating the bytes
+  - Each decimel number in an octect of dotted-decimal notation is a value ranging from 0 to 255.
+  - Eg: `10.20.29.2`
 
