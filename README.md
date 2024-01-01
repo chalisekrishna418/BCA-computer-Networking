@@ -8,7 +8,7 @@ Chapter Wise Notes for BCA 5th Semester
 - Chapter-1: Introduction
 - Chapter-2: The Physical Layer
 - Chapter-3: The Data Link Layer
-- Chapter-4: The Network Layer
+- [Chapter-4: The Network Layer](4-The_Network_Layer.md)
 - Chapter-5: The Transport Layer
 - Chapter-6: The Application Layer
 - Chapter-7: Network Security
